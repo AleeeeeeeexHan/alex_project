@@ -1,0 +1,463 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>The 8 Most Popular Chinese Dishes You Should Try</title><link href="https://www.chinahighlights.com/travelguide/chinese-food/eight-chinese-dishes.htm" rel="canonical">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="yes" name="apple-mobile-web-app-capable">
+<meta name="description" content="The most popular Chinese dishes with our customers include sweet and sour pork, Kungpao chicken, dumplings, spring rolls, chow mein, and Peking duck.">
+<meta property="og:image" content="//images.chinahighlights.com/allpicture/2014/08/f10dd64230c54f5db6fbb6cc_300x200.jpg">
+<meta property="og:url" content="//www.chinahighlights.com/travelguide/chinese-food/eight-chinese-dishes.htm">
+<meta property="og:site_name" content="ChinaHighlights">
+<meta property="fb:admins" content="100001357263258">
+<script src="//data.chinahighlights.com/js/citsLoad.js"></script>
+<link href="//data.chinahighlights.com/css/min.php?f=/css/city-guide.css,/public/css/global.min.css,/css/PluginsCss.css&amp;v=201701101001" rel="stylesheet">
+
+<script type="text/javascript" src="https://data.chinahighlights.com/js/min.php?f=/js/jquery-1.8.2.min.js,/public/js/bootstrap.min.js,/js/cht.js,/js/city-info-2014.js,/js/community/jsbase.js,/js/jquery.cookies.js,/js/jquery.md5.js,/js/community/facebox.js,/js/cardcomm.js,/js/cardcomm_mobile_friendly.js&amp;v=2014091602"></script>
+<style>
+.mainTitle { background:#dfdfdf; display: block; margin: 0 0 2px 0; padding:6px; border-top:2px solid #a31022; font-size:15px; font-weight: normal!important}
+.mainTitle a { text-decoration: none; font-size:15px;}
+</style>
+
+<!--[if lte IE 9]>
+<link href="//data.chinahighlights.com/public/js/fixie/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/public/js/fixie/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="//data.chinahighlights.com/js/min.php?f=/public/js/respond.min.js,/public/js/fixie/respond.proxy.js"></script>
+<![endif]-->
+</head>
+<body class="chinaguideBody">
+<div id="wrapper" class="chinaguideICON B-The8MostPopularChineseDishesYouShouldTry C-Top8ChineseDishes nones">
+  <div id="headerWrapper">
+    <div id="header">
+  <div class="container">
+    <div class="row hidden-xs hidden-sm" id="headerLinkRight">
+      <div class="col-lg-24">
+        
+        <ul class="list-inline pull-right">
+          <li><a rel="nofollow" href="/contactus/">Contact us</a></li>
+          <li><a href="/aboutus/" rel="nofollow">About us</a></li>
+        </ul>
+        <div class="tollfree pull-right">
+<i class="fa fa-phone"></i>
+          <div class="currentNo"> <strong>USA/CA:</strong>800-2682918 </div>
+          <div class="freePhone"> <span><strong>AU:</strong> 1800-764678</span> <span><strong>UK:</strong> 0800-0327753</span> <span><strong>All:</strong> 86-773-2831999</span><span class="closeBlock"><img src="//data.chinahighlights.com/css/images/global/phone-close.png"></span> </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="mainnav" class="nav navbar navbar-inverse" role="navigation">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-3 col-sm-4 logobox hidden-xs"> <a href="/"> <img src="//data.chinahighlights.com/pic/logo/logo-132x104.png" alt="logo" class="img-responsive"> </a> </div>
+        <div class="col-lg-21 col-sm-20 col-lg-offset-3 col-sm-offset-3">
+          <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+              <div class="mobileLogo visible-xs">CHINA HIGHLIGHTS<sup>&#xAE;</sup></div>
+              <div class="navbar-brand visible-xs">  <a rel="nofollow" href="/tour/create-my-trip.htm"><img src="//data.chinahighlights.com/pic/tailor-mark.png" class="img-responsive" width="25"></a> </div>
+            </div>
+          <div class="collapse navbar-collapse">
+            <ul class="nav navbar-nav chNav">
+              <li><a href="/">Home</a></li>
+              
+              <li><a href="/tour/">China Tours</a> <span class="withMenu" data-target="#china-tours"><a href="#">+</a></span> </li>
+              <ul id="china-tours">
+                <li><a href="/tour/top-china-tours/">Top 10 Tours</a> </li>
+                <li><a href="/tour/china-panda-tours/">Panda Tours</a></li>
+                <li><a href="/tour/family-tours/">Family Tours</a></li>
+                <li><a href="/yangtzecruise/">Yangtze Cruise</a></li>
+                <li><a href="/tour/year.htm">China Tours 2018</a></li>
+              </ul>
+              <li class="non-mibile"><a href="/tour/create-my-trip.htm">Create My Trip</a></li>
+              <li><a href="/citytour/">Destinations</a> <span class="withMenu" data-target="#destinations"><a href="#">+</a></span> </li>
+              <ul id="destinations">
+                <li><a href="/beijing/tours.htm">Beijing</a></li>
+        <li><a href="/shanghai/tours.htm">Shanghai</a></li>
+          <li><a href="/guilin/tours.htm">Guilin</a></li>
+            <li><a href="/chengdu/tours.htm">Chengdu</a></li>
+            <li><a href="/xian/tours.htm">Xi&apos;an</a></li>
+            <li><a href="/tibet/tours.htm">Tibet</a></li>
+          <li><a href="/zhangjiajie/tours.htm">Zhangjiajie</a></li>
+              </ul>
+              <li><a href="/travelguide/">Travel Guide</a> <span class="withMenu" data-target="#travel-guide"><a href="#">+</a></span> </li>
+              <ul id="travel-guide">
+                <li><a href="/travelguide/visa-application/">China Visas</a></li>
+                <li><a href="/beijing/">Beijing</a></li>
+                <li><a href="/greatwall/">The Great Wall of China</a></li>
+                <li><a href="/travelguide/china-top-10-attractions.htm">China&#x2019;s Top 10 Attractions</a></li>
+                <li><a href="/giant-panda/">Giant Pandas</a></li>
+                <li><a href="/xian/terracotta-army/">The Terracotta Army</a></li>
+                <li><a href="/travelguide/top-highlights-of-china.htm">Best of China</a></li>
+              </ul>
+              <li class="NavActive"><a href="/travelguide/culture/">Culture</a> <span class="withMenu" data-target="#culture"><a href="#">+</a></span> </li>
+              <ul id="culture">
+                <li><a href="/travelguide/chinese-zodiac/">Chinese Zodiac</a></li>
+                <li><a href="/travelguide/special-report/chinese-new-year/">Chinese New Year</a></li>
+                <li><a href="/festivals/mid-autumn-festival.htm">Mid-autumn Festival</a></li>
+                <li><a href="/festivals/china-public-holiday.htm">Public Holiday Schedule</a></li>
+              </ul>
+              <li><a href="/china-trains/">Trains</a></li>
+              <li><a href="/tour/asia-tours/">Asia Tours</a></li>
+              <li class="last "><a href="/daytrip/">Day Tours</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--container--> 
+  </div>
+  <!--end of mainnav -->
+  <div id="subnav" class="hidden-xs">
+    <div class="container">
+      <div class="subnavcontent col-lg-offset-3 col-sm-offset-3">
+        <ul role="tablist">
+            <li><a href="/travelguide/kungfu/">Kung Fu</a></li>
+            <li><a href="/travelguide/chinese-food/">Food</a></li>
+            <li><a href="/travelguide/chinese-zodiac/">Chinese Zodiac</a></li>
+            <li><a href="/travelguide/chinese-tea/">Tea</a></li>
+            <li><a href="/travelguide/culture/traditionalmedichine.htm">Medicine</a></li>
+            <li><a href="/travelguide/culture/china-history.htm">History</a></li>          
+            <li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:;" id="festivals"> Festivals <span class="caret"></span> </a>
+            <ul class="dropdown-menu" role="menu" aria-labelledby="festivals">
+				<li><a href="/travelguide/special-report/chinese-new-year/">Chinese New Year</a></li>
+				<li><a href="/festivals/lantern-festival.htm">Chinese Lantern Festival</a></li>
+				<li><a href="/festivals/mid-autumn-festival.htm">Mid-autumn Festival</a></li>
+				<li><a href="/festivals/dragon-boat-festival.htm">Dragon Boat Festival</a></li>
+				<li><a href="/festivals/harbin-ice-and-snow-festival.htm">Harbin Ice Snow Festival</a></li>
+				<li><a href="/festivals/china-public-holiday.htm">Public Holiday Schedule</a></li>
+                <li class="last"><a href="/festivals/">All China Festivals</a></li>
+            </ul>
+          </li>
+        </ul>
+        <div class="siteSearch pull-right visible-md visible-lg">
+          <form id="searchbox_001281624266240652297:cl1fy1cxepi" name="googlesreach" action="/result.asp">
+            <input type="hidden" value="001281624266240652297:cl1fy1cxepi" name="cx">
+            <input type="hidden" value="FORID:9" name="cof">
+            <input type="text" onblur="chkval()" onfocus="this.value=&apos;&apos;" class="strkeys" placeholder="site search" name="q">
+            <input type="image" class="submits" src="//data.chinahighlights.com/css/images/global/site-search-button.png">
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>  </div>
+  
+<div class="container"><div id="contentHead"><div id="crumbNav"><a href="/">Home</a>
+  <a href="/travelguide/culture/">Chinese Culture</a> <a href="/travelguide/chinese-food/">Chinese Food</a>   Top 8 Chinese Dishes</div><h1>
+      The 8 Most Popular Chinese Dishes You Should Try    </h1></div>
+  <div id="MainhotelContent" class="row">
+  <div class="col-md-5 col-sm-5 hidden-xs">
+  	    <div id="sideBar">
+                <ul class="leftNav">
+            <li class="mainTitle">
+			            <a href="/travelguide/chinese-food/">
+						Chinese Food                        </a>
+                        </li>
+            <li><a href="/travelguide/chinese-food/chinese-food-type.htm">Chinese Food Types/Ingredients</a></li><li><a href="/travelguide/chinese-food/regional-cuisines.htm">Regional Cuisines</a></li><li><a href="/travelguide/chinese-food/eating-and-drinking-in-china.htm">Eating and Drinking</a></li><li><a href="/travelguide/chinese-food/dining-culture.htm">Chinese Eating Culture</a></li><li><a href="/travelguide/chinese-food/cooking.htm">Chinese Cooking Class</a></li><li><a href="/travelguide/menu/">Chinese Food Menus</a></li><li class="active">Top 8 Chinese Dishes</li><li><a href="/travelguide/chinese-food/famous-restaurants.htm">Famous Chinese Restaurants</a></li><li><a href="/travelguide/chinese-food/food-articles.htm">China Food &amp; Drink Articles</a></li><li><a href="/travelguide/chinese-food/chinese-food-facts.htm">Chinese Food Facts</a></li>          </ul>
+           <div class="left_nav_bottom"><p>
+	<a href="https://www.chinahighlights.com/redirect.asp?url=https://www.chinahighlights.com/tour/cht-fd-01/&amp;t=78002" target="_blank" rel="nofollow"><img src="//images.chinahighlights.com/allpicture/2015/11/7658ca10f8f74a729fc7e5bd.jpg" alt="chinese food ad" width="213" height="404"></a> 
+</p></div>    </div>
+    </div>
+    <div id="mainContentRight" class="col-md-19 col-sm-19 col-xs-24">
+<!--    <div class="videoRight300 hidden-xs">
+        </div>-->
+              
+                                        
+                
+
+                <div class="photoBlock300 autowidht">
+	<img class="img-responsive" src="//images.chinahighlights.com/2014/02/03d4e018844c4c768012bdd7_cp_301x224.jpg" alt="cooking" width="301" height="225"> Learn to cook Chinese dishes with China Highlights
+</div>
+<p>
+	China is rich in tourist attractions. <strong>Delicious foods</strong> are an attraction indispensable in a good tour. With a long history, unique features, numerous styles and exquisite cooking, Chinese cuisine is one important constituent part of Chinese culture. <strong>Chinese dishes</strong> are famous for color, aroma, taste, meaning and appearance.
+</p>
+<p>
+	The following are the eight most <strong>popular dishes among foreigners and Chinese</strong>. For customers&#x2019; convenience, we also list their Chinese character names and English pronunciations. These eight dishes are sweet and sour pork (chicken), gong bao chicken, ma po tofu, wontons, dumplings, spring rolls, chow mein and Peking duck. These dishes are available in most large restaurants in China.
+</p>
+<div class="row">
+	<div class="col-md-8 col-sm-8 col-xs-24">
+		<div id="chinesefood">
+			<div class="foodlist">
+				<img class="img-responsive" src="//images.chinahighlights.com/allpicture/2015/12/6934bb3107654e8195ad2396.jpg" alt="sweet and sour pork" width="250" height="200"> 
+				<h2>
+					Sweet and Sour Pork &#x7CD6;&#x918B;&#x91CC;&#x810A;
+				</h2>
+				<p>
+					Sweet and sour pork has a bright orange-red color, and a delicious sweet and sour taste.
+				</p>
+				<p>
+					At the very beginning there was only sweet and sour pork, but to meet demands, there have been some developments on this dish. Now, the pork can be substituted by other ingredients like chicken, beef or pork ribs. Read the DIY recipes of sweet and sour pork ribs. See <a href="/travelguide/chinese-food/cooking/sweet-sour-pork.htm">How to Cook Sweet and Sour Pork</a>.
+				</p>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-8 col-sm-8 col-xs-24">
+		<div id="chinesefood">
+			<div class="foodlist">
+				<img class="img-responsive" src="//images.chinahighlights.com/allpicture/2015/12/967a1b2eec904d008fad2e3c.jpg" alt="kung pao chicken" width="250" height="200"> 
+				<h2>
+					Gong Bao Chicken &#x5BAB;&#x4FDD;&#x9E21;&#x4E01;
+				</h2>
+				<p>
+					This is a famous Sichuan-style specialty, popular with both Chinese and foreigners. The major ingredients are diced chicken, dried chili, and fried peanuts.
+				</p>
+				<p>
+					People in Western countries have created a Western-style gong bao chicken, for which the diced chicken is covered with cornstarch, and vegetables, sweet and sour sauce and mashed garlic are added. See <a href="/travelguide/chinese-food/cooking/kung-pao-chicken.htm">How to cook Gong Bao Chicken</a>.
+				</p>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-8 col-sm-8 col-xs-24">
+		<div id="chinesefood">
+			<div class="foodlist">
+				<img class="img-responsive" src="//images.chinahighlights.com/allpicture/2015/12/5703d387681b439abe46d4aa.jpg" alt="ma po tofu" width="250" height="200"> 
+				<h2>
+					Ma Po Tofu &#x9EBB;&#x5A46;&#x8C46;&#x8150;
+				</h2>
+				<p>
+					Ma po tofu is one of the most famous dishes in Chuan Cuisine with a history of more than 100 years. Ma (&#x9EBB;) describes a spicy and hot taste which comes from pepper powder, one kind of condiment usually used in Chuan Cuisine.
+				</p>
+				<p>
+					The milky tofu is enriched with brownish red ground beef and chopped green onion. It is really a tasty delicacy. Read the DIY recipes of ma po tofu. See <a href="/travelguide/chinese-food/cooking/mapo-tofu.htm">How to Cook Ma Po Tofu</a>.
+				</p>
+			</div>
+		</div>
+	</div>
+	<div class="clearfix">
+	</div>
+	<div class="col-md-8 col-sm-8 col-xs-24">
+		<div id="chinesefood">
+			<div class="foodlist">
+				<img class="img-responsive" src="//images.chinahighlights.com/allpicture/2015/12/b340857a0dcd4842af86d983.jpg" alt="wonton" width="250" height="200"> 
+				<h2>
+					Wontons &#x9984;&#x9968;
+				</h2>
+				<p>
+					Since the Tang Dynasty (618&#x2013;907), it has been a custom for people to eat wontons on the winter solstice.
+				</p>
+				<p>
+					The most versatile shape of a wonton is simple a right triangle, similar to Italian tortellini. Wontons are commonly boiled and served in soup or sometimes deep-fried. The filling of wontons can be minced pork or diced shrimp. See <a href="/travelguide/chinese-food/wonton.htm">How to Cook Wontons</a>.
+				</p>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-8 col-sm-8 col-xs-24">
+		<div id="chinesefood">
+			<div class="foodlist">
+				<img class="img-responsive" src="//images.chinahighlights.com/allpicture/2015/12/deb748fa174a4e8faf974229.jpg" alt="dumplings" width="250" height="200"> 
+				<h2>
+					Dumplings &#x997A;&#x5B50;
+				</h2>
+				<p>
+					With a long history of more than 1,800 years, dumplings are a traditional food widely popular in North China. Dumplings consist of minced meat and chopped vegetables wrapped into a thin piece of dough skin.
+				</p>
+				<p>
+					Popular fillings are mince pork, diced shrimp, ground chicken, beef, and vegetables. They can be cooked by boiling, steaming, or frying. Dumplings are a traditional dish eaten on Chinese New Year&#x2019;s Eve. See <a href="/travelguide/chinese-food/cooking/dumplings.htm">How to Make Chinese Dumplings</a>.
+				</p>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-8 col-sm-8 col-xs-24">
+		<div id="chinesefood">
+			<div class="foodlist">
+				<img class="img-responsive" src="//images.chinahighlights.com/allpicture/2015/12/4187908b827b4be3b271be69.jpg" alt="chow mein" width="250" height="200"> 
+				<h2>
+					Chow Mein &#x7092;&#x9762;
+				</h2>
+				<p>
+					The &quot;Chow mein&quot; is the Cantonese pronunciation of the Chinese characters above, which means stir-fried noodles. Generally speaking, this stir-fried dish consists of noodles, meat (usually chicken, beef, shrimp, or pork), onions and celery.
+				</p>
+				<p>
+					For making chow mein, the noodles need to be cooked in boiling water for a while. After they becoming cool, then move to the step of stir-frying. See <a href="/travelguide/chinese-food/cooking/chow-mein.htm">How to Cook Chow Mein</a>.
+				</p>
+			</div>
+		</div>
+	</div>
+	<div class="clearfix">
+	</div>
+	<div class="col-md-8 col-sm-8 col-xs-24">
+		<div id="chinesefood">
+			<div class="foodlist">
+				<img class="img-responsive" src="//images.chinahighlights.com/allpicture/2015/12/67e1731499ad4afd8644f089.jpg" alt="peking roasted duck" width="250" height="200"> 
+				<h2>
+					Peking Roasted Duck &#x5317;&#x4EAC;&#x70E4;&#x9E2D;
+				</h2>
+				<p>
+					Peking duck is a famous dish from Beijing, enjoying world fame, and considered as one of China&#x2019;s national dishes.
+				</p>
+				<p>
+					Peking duck is savored for its thin and crispy skin. The Sliced Peking duck is often eaten with pancakes, sweet bean sauce, or soy with mashed garlic. It is a must-taste dish in Beijing! Read more about <a href="/beijing/food/beijing-duck.htm">Peking Roasted Duck</a>.
+				</p>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-8 col-sm-8 col-xs-24">
+		<div id="chinesefood">
+			<div class="foodlist">
+				<img class="img-responsive" src="//images.chinahighlights.com/allpicture/2015/12/df8a52a2875f41af87bc4824.jpg" alt="spring rolls" width="250" height="200"> 
+				<h2>
+					Spring Rolls &#x6625;&#x5377;
+				</h2>
+				<p>
+					Spring rolls are a Cantonese dim sum of cylindrical shape. The filling of spring rolls could be vegetables or meat, and the taste could be either sweet or savory. After fillings are wrapped in spring roll wrappers, the next step is frying. Then the spring rolls are given their golden yellow color.
+				</p>
+				<p>
+					It is a dish especially popular in Jiangxi, Jiangsu, Shanghai, Fujian, Guangzhou, Shenzhen, Hong Kong, etc. Read more about <a href="/travelguide/chinese-food/spring-rolls.htm">Spring Rolls</a>.
+				</p>
+			</div>
+		</div>
+	</div>
+</div>
+<h2>
+	Try Chinese  Food with China Highlights
+</h2>
+<div class="photoBlock300 autowidht">
+	<img class="img-responsive" src="//images.chinahighlights.com/allpicture/2014/09/2127a46effe344cfb1dec10d_298x199.jpg" alt="Eating delicious chinese food" width="298" height="200"> 
+</div>
+<p>
+	Since China is so attraction-packed and Chinese food is so delicious, taking a Chinese Food Tour is a good way to ensure you taste a variety of these delicious delicacies and enjoy the top sights in China.	See our recommended tours below for inspiration.
+</p>
+<ul class="drop1">
+	<li>
+		<a href="http://www.chinahighlights.com/redirect.asp?url=http://www.chinahighlights.com/tour/cht-1/&amp;t=78002" rel="nofollow">8-Day Beijing, Xi&apos;an, and
+Shanghai Tour</a>&#x2014;<b>the Golden Triangle</b> 
+	</li>
+	<li>
+		<a href="http://www.chinahighlights.com/redirect.asp?url=http://www.chinahighlights.com/tour/cht-fd-01/&amp;t=78002" rel="nofollow">12-Day Beijing, Xi&apos;an,
+Chengdu, Guilin, and Hong Kong Cuisine Tour</a>&#x2014;<b>the Flavor of China</b> 
+	</li>
+</ul>
+<p>
+	Our tours
+can be <b>customized</b>. If you are not interested
+in the above tours, just tell us your
+interests and requirements, and China Highlights will <a href="http://www.chinahighlights.com/redirect.asp?url=https://www.chinahighlights.com/tour/create-my-trip.htm&amp;t=78002" rel="nofollow">create a China tour</a> for you.
+</p>
+<h2>
+	More Interesting Articles on Chinese Food
+</h2>
+<ul class="drop1">
+	<li>
+		<a href="/travelguide/article-what-chinese-eat-for-breakfast.htm" target="_blank">What the Chinese Eat for Breakfast</a> 
+	</li>
+	<li>
+		<a href="/travelguide/article-what-chinese-eat-for-lunch.htm" target="_blank">What the Chinese Eat for Lunch</a> 
+	</li>
+	<li>
+		<a href="/travelguide/chinese-food/chinese-new-year-food.htm">7 Lucky Foods to Eat During Chinese New Year </a> 
+	</li>
+	<li>
+		<a href="/travelguide/article-unique-food.htm">5 Most Unbelievable Chinese Foods</a> 
+	</li>
+	<li>
+		<a href="/travelguide/chinese-food/dining-culture.htm">Chinese Dining Culture</a> 
+	</li>
+</ul>
+
+                     	        		      <div id="articleRecommend" class="row">
+      <span class="articleTitle col-md-24 col-sm-24 col-xs-24">You Might Like</span>
+            <div class="articleList col-md-6 col-sm-6 col-xs-24"><a href="/travelguide/chinese-food/chinese-food-type.htm" title="Chinese Food Ingredients &#x2014; What Chinese Eat" rel="nofollow"><span class="articlePhoto"><img alt="Chinese Food Ingredients &#x2014; What Chinese Eat" src="//images.chinahighlights.com/allpicture/2014/08/703569837fea4a92834556bf_300x200.jpg" class="img-responsive img-rounded"></span> <span class="articleTitle1">Chinese Food Ingredients &#x2014; What Chinese Eat</span></a></div>
+            <div class="articleList col-md-6 col-sm-6 col-xs-24"><a href="/travelguide/chinese-food/food-flavors.htm" title="The 5 Key Flavors of Chinese Food" rel="nofollow"><span class="articlePhoto"><img alt="The 5 Key Flavors of Chinese Food" src="//images.chinahighlights.com/allpicture/2015/11/e3ab73dbc1a841d38f6e7250_297x198.jpg" class="img-responsive img-rounded"></span> <span class="articleTitle1">The 5 Key Flavors of Chinese Food</span></a></div>
+            <div class="articleList col-md-6 col-sm-6 col-xs-24"><a href="/travelguide/chinese-food/chinese-food-facts.htm" title="15 Interesting Facts on Chinese Food You Probably Won&apos;t Know" rel="nofollow"><span class="articlePhoto"><img alt="15 Interesting Facts on Chinese Food You Probably Won&apos;t Know" src="//images.chinahighlights.com/allpicture/2015/11/9389f898d68848f79fed42d2_300x225.jpg" class="img-responsive img-rounded"></span> <span class="articleTitle1">15 Interesting Facts on Chinese Food You Probably Won&apos;t Know</span></a></div>
+            <div class="articleList col-md-6 col-sm-6 col-xs-24"><a href="/travelguide/chinese-food/eight-cuisine.htm" title="The 8 Great Regional Cuisines of China" rel="nofollow"><span class="articlePhoto"><img alt="The 8 Great Regional Cuisines of China" src="//images.chinahighlights.com/allpicture/2015/11/4d7cc9b248b64db7b21c28c8_cut_300x221_49.jpg" class="img-responsive img-rounded"></span> <span class="articleTitle1">The 8 Great Regional Cuisines of China</span></a></div>
+            </div>
+              <div id="tailormade"> <!-- ??? tailor_in_page -->
+        </div>
+             <div class="hidden-xs">
+	       <div class="tourPublishers col-md-24">
+    <div class="publishintros col-md-12">
+        <div class="publishPic pull-left">
+            <img src="//data.chinahighlights.com/image/travelguide/city-guide/kelly.jpg" class="img-responsive">
+        </div>
+        <ul class="author pull-left">
+            <li><strong>Author:</strong> Kelly</li>
+            <li><strong>Update:</strong> November 10, 2017</li>
+                        <li><a rel="nofollow" href="/author/kelly/" class="feedback">See all my travel articles</a></li>
+                        <li><a rel="nofollow" href="mailto:kelly@chinahighlights.com" class="email">Send feedback</a></li>
+        </ul>
+    </div>
+        <div class="chtqrcode"><a href="//www.dmca.com/Protection/Status.aspx?ID=43e5afb9-779c-4d87-b7c3-e11cce02004b" title="DMCA.com Protection Status" class="dmca-badge" rel="nofollow" target="_blank"> <img src="//images.dmca.com/Badges/_dmca_premi_badge_1.png?ID=43e5afb9-779c-4d87-b7c3-e11cce02004b" alt="DMCA.com Protection Status"></a> </div>
+    </div>
+        </div>
+                <div id="customerReview" class="hidden-xs">
+	  			  	</div>
+            </div>
+  </div>
+</div>
+
+<!--n-->
+
+<script type="text/javascript">
+    $("#tailormade").load('/public/template/tailor_in_page.html');
+</script>
+
+  <div id="footer"></div>
+</div>
+<script src="//data.chinahighlights.com/public/js/footer-html5.js"></script>
+<script>
+    $(function(){
+    	citsLoad.js(['//data.chinahighlights.com/js/min.php?f=/js/guide-public.js,/js/800-phone.js,/js/community/jsbase.js,/js/jquery.cookies.js,/js/jquery.md5.js,/js/community/comment.js&v=20141226',
+    '//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52170b0a4a301edc']);
+    });
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "@id": "https://www.chinahighlights.com/travelguide/chinese-food/eight-chinese-dishes.htm",
+  "mainEntityOfPage": [{
+    "@type": "WebPage",
+    "@id": "https://google.com/article"
+  }],
+
+  "headline":"The 8 Most Popular Chinese Dishes You Should Try",
+
+  "author": [{
+    "@type": "Person",
+    "name": "PKL"
+  }],
+
+  "description": "The most popular Chinese dishes with our customers include sweet and sour pork, Kungpao chicken, dumplings, spring rolls, chow mein, and Peking duck.",
+
+  
+  "image": [{
+    "@type": "ImageObject",
+    "url": "https://images.chinahighlights.com/allpicture/2014/08/f10dd64230c54f5db6fbb6cc_300x200.jpg",
+    "width": "300",
+    "height": "200"
+  }],
+
+  "publisher": [{
+    "@type": "Organization",
+    "name": "China Highlights",
+    "logo": [{
+      "@type": "ImageObject",
+      "url": "https://data.chinahighlights.com/pic/logo/logo-132x104.png",
+      "width": "132",
+      "height": "104"
+    }]
+  }],
+
+  "datePublished": "2016-03-25 00:57:31.330",
+  "dateModified": "2017-11-10 02:00:18.267"
+}
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+// Insert Your Facebook Pixel ID below.
+fbq('init', '1826409307684605');
+fbq('track', 'PageView');
+</script>
+<!-- Insert Your Facebook Pixel ID below. -->
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1826409307684605&amp;ev=PageView&amp;noscript=1"></noscript>
+<!-- End Facebook Pixel Code -->
+
+</body>
+</html>
